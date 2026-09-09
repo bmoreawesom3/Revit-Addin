@@ -19,8 +19,8 @@ This document catalogs every tool currently active on the **CNCPT** ribbon tab, 
 
 | Icon | Name | Description |
 |---|---|---|
-| ![](icons/cube.png) | **Cube** | Opens Cube |
-| ![](icons/youcube.png) | **YouCube** | Opens Youcube |
+| ![]() | **Cube** | Opens Cube |
+| ![]() | **YouCube** | Opens Youcube |
 | ![](icons/revit_cubed.png) | **Revit Cubed** | Opens playlist for Revit Cubed |
 | ![](icons/pinnacle.png) | **Pinnacle** | Opens Pinnacle |
 | ![](icons/autodesk_health.png) | **Autodesk Health** | Opens the Autodesk Website |
